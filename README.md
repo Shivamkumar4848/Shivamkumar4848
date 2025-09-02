@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
-<h3 align="center">🚀 Software Engineer | Data Integration & Cloud Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | Cloud Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumar4848&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumar4848" /> </p>
 
